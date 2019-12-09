@@ -8,8 +8,8 @@
         Title="Address Calculator" Height="300" Width="600"
         Icon="./favicon.ico">
     <Grid>
-        <TextBox Name="address" HorizontalAlignment="Left" Height="23" Margin="37,33,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="164"/>
-        <TextBox Name="network" HorizontalAlignment="Left" Height="23" Margin="220,33,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="45"/>
+        <TextBox Name="address" HorizontalAlignment="Left" Height="23" Margin="37,33,0,0" TextWrapping="Wrap" Text="0.0.0.0" VerticalAlignment="Top" Width="164"/>
+        <TextBox Name="network" HorizontalAlignment="Left" Height="23" Margin="220,33,0,0" TextWrapping="Wrap" Text="24" VerticalAlignment="Top" Width="45"/>
         <Label Content="Networkaddress" HorizontalAlignment="Left" Margin="37,76,0,0" VerticalAlignment="Top" Width="164"/>
         <Label Name="networkad" Content="" HorizontalAlignment="Left" Margin="220,76,0,0" VerticalAlignment="Top" Width="164" BorderBrush="DarkGray" BorderThickness="1px"/>
         <Label Content="Broadcastaddress" HorizontalAlignment="Left" Margin="37,107,0,0" VerticalAlignment="Top" Width="164"/>
