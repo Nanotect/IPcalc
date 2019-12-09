@@ -245,5 +245,10 @@ namespace IPinfo
 			}
 			Console.WriteLine();
 		}
+
+		private void Button_Click_1(object sender, RoutedEventArgs e)
+		{
+			Clipboard.SetText("https://github.com/Nanotect/IPcalc/tree/master");
+		}
 	}
 }

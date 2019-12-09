@@ -22,5 +22,6 @@
         <Label Name="rangeH" Content="" HorizontalAlignment="Left" Margin="389,173,0,0" VerticalAlignment="Top" Width="164" BorderBrush="DarkGray" BorderThickness="1px"/>
         <Label Content="/" HorizontalAlignment="Left" Margin="201,33,0,0" VerticalAlignment="Top" Width="19" Height="23"/>
         <Label Content="© 2019 Wilfer Spaepen (MIT license)" HorizontalAlignment="Left" Margin="0,238,0,0" VerticalAlignment="Top"/>
+        <Button Content="Copy Github URL" HorizontalAlignment="Left" Margin="459,33,0,0" VerticalAlignment="Top" Width="94" Click="Button_Click_1"/>
     </Grid>
 </Window>
